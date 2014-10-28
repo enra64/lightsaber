@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/layoutLed1" >
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="1" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="2" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="3" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="4" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="5" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="6" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="7" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="8" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="9" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="10" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="11" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="12" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="13" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="14" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="15" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="16" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="1" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="17" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="18" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="19" />
+	            <Button
+	                android:id="@+id/buttonFarbe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:onClick="buttonFarbe"
+	                android:text=""
+	                android:tag="20" />
+	            
+	        
+</LinearLayout>

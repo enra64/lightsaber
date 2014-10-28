@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/listViewSavePoints"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_weight="0.60" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.40"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dauer/Line"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <SeekBar
+                    android:id="@+id/seekBarDuration"
+                    android:layout_width="205dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.80" />
+
+                <TextView
+                    android:id="@+id/durationView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".3"
+                    android:text="200ms"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <Button
+                    android:id="@+id/durButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.80"
+                    android:text="Ändern"
+                    android:onClick="changeDurationButtonClicked" 
+                    android:enabled="false" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/startStopButton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="startButtonClicked"
+                android:text="Start"
+                android:enabled="false" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

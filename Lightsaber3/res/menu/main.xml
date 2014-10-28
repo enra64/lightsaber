@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.oerntec.lightsaber3.MainActivity" >
+
+    <!-- Search, should appear as action button -->
+    <item
+        android:id="@+id/menu_update"
+        android:icon="@drawable/ic_action_bluetooth_connected"
+        android:showAsAction="ifRoom"
+        android:title="update Lightsaber"/>
+    <item
+        android:id="@+id/menu_save"
+        android:icon="@drawable/ic_action_save"
+        android:showAsAction="ifRoom"
+        android:title="Save lightshow"/>
+    <item
+        android:id="@+id/menu_load"
+        android:icon="@drawable/ic_action_load"
+        android:showAsAction="ifRoom"
+        android:title="Load lightshow"/>
+
+</menu>
